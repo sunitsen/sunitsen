@@ -1,5 +1,3 @@
-# sunitdev# 
-💫 About Me:
 I'm a Full Stack Developer specializing in the MERN Stack, with experience in both SQL (ORM) and NoSQL databases.<br>Currently working on personal and collaborative web apps to improve my full-stack skills.<br>Open to collaborating on interesting projects and always looking to contribute to real-world applications.<br>Currently learning more about backend optimization, database design, and advanced state management in React.<br> Fun Fact: I love solving bugs late at night with a cup of tea — it's my kind of therapy!
 
 
